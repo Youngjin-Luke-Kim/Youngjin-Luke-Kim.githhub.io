@@ -32,7 +32,10 @@
       "startDate": "2025-01-01",
       "endDate": "",
       "summary": "Research on EDA for 2.5D/3D IC design and machine learning for EDA under Professor Sungkyu Lim",
-      "highlights": ["EDA for 2.5D/3D IC Design", "Machine Learning for EDA"]
+      "highlights": [
+        "EDA for 2.5D/3D IC Design",
+        "Machine Learning for EDA"
+      ]
     },
     {
       "name": "Samsung Memory Division",
@@ -54,11 +57,15 @@
       "location": "Los Angeles, CA",
       "url": "https://www.usc.edu/",
       "area": "Electrical and Computer Engineering",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2025-01-01",
       "endDate": "2030-01-01",
       "score": "",
-      "courses": ["2.5D/3D IC Design", "Power Delivery Networks", "Machine Learning for EDA"]
+      "courses": [
+        "2.5D/3D IC Design",
+        "Power Delivery Networks",
+        "Machine Learning for EDA"
+      ]
     },
     {
       "institution": "Yonsei University",
@@ -117,19 +124,33 @@
       "name": "Hardware Design",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Verilog", "Xilinx HLS", "Synopsys Tools (DC, Verdi, Hspice)", "Virtuoso Cadence", "Chisel"]
+      "keywords": [
+        "Verilog",
+        "Xilinx HLS",
+        "Synopsys Tools (DC, Verdi, Hspice)",
+        "Virtuoso Cadence",
+        "Chisel"
+      ]
     },
     {
       "name": "Programming",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": ["C/C++", "Python", "MATLAB"]
+      "keywords": [
+        "C/C++",
+        "Python",
+        "MATLAB"
+      ]
     },
     {
       "name": "Tools",
       "level": "Intermediate",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": ["Linux", "Shell Script", "LaTeX"]
+      "keywords": [
+        "Linux",
+        "Shell Script",
+        "LaTeX"
+      ]
     }
   ],
   "languages": [
@@ -148,12 +169,21 @@
     {
       "name": "Computer Architecture",
       "icon": "fa-solid fa-microchip",
-      "keywords": ["2.5D and 3D IC Design", "Power Delivery Networks", "Near-Data Processing", "Hardware Acceleration"]
+      "keywords": [
+        "2.5D and 3D IC Design",
+        "Power Delivery Networks",
+        "Near-Data Processing",
+        "Hardware Acceleration"
+      ]
     },
     {
       "name": "Electronic Design Automation",
       "icon": "fa-solid fa-computer",
-      "keywords": ["ML for EDA Applications", "Reinforcement Learning for Physical Design", "Advanced Packaging"]
+      "keywords": [
+        "ML for EDA Applications",
+        "Reinforcement Learning for Physical Design",
+        "Advanced Packaging"
+      ]
     }
   ],
   "references": [],
