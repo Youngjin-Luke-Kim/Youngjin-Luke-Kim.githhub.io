@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Youngjin-Luke-Kim.githhub.io/sitemap.xml
+Sitemap: https://Youngjin-Luke-Kim.github.io/sitemap.xml
