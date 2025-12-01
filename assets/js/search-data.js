@@ -49,16 +49,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-graduated-from-yonsei-university-bachelor",
+          title: 'Graduated from Yonsei University (Bachelor)',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-embarked-on-new-journey-at-sccad-under-prof-sungkyu-lim",
+          title: 'Embarked on new journey at SCCAD under Prof. Sungkyu Lim',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
