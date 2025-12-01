@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Youngjin Luke Kim (YJ), a PhD student in Electrical and Computer Engineering at USC Viterbi School of Engineering, advised by <a href="https://scholar.google.com/citations?user=kEh-m1sAAAAJ&hl=en" target="_blank">Professor Sungkyu Lim</a>. I expect to graduate in 2030.
+I'm Youngjin Luke Kim (YJ), a first-year PhD student in Electrical and Computer Engineering at USC Viterbi School of Engineering, advised by <a href="https://scholar.google.com/citations?user=kEh-m1sAAAAJ&hl=en" target="_blank">Professor Sungkyu Lim</a>.
 
 My research focuses on electronic design automation (EDA) for advanced integrated circuits and machine learning applications, including:
 
