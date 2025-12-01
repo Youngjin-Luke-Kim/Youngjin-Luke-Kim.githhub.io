@@ -6,14 +6,28 @@
     - name: Location
       value: Los Angeles, California
 
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Electronic Design Automation
+      items:
+        - EDA for 2.5D and 3D IC Design and Optimization
+        - Machine Learning for EDA Applications
+        - System-level Design and Co-optimization
+    - title: Advanced Packaging
+      items:
+        - New Material and Process Integration
+        - Through Glass Via (TGV)
+
 - title: Education
   type: time_table
   contents:
     - title: PhD in Electrical and Computer Engineering
       institution: University of Southern California (USC), Los Angeles, CA
-      year: 2025 - 2030 (Expected)
+      year: 2025 - Present
       description:
         - Advisor: Professor Sungkyu Lim
+        - Research Focus: EDA for 2.5D/3D IC Design, ML for EDA
     - title: Bachelor of Science
       institution: Yonsei University, South Korea
       year: 2019 - 2025

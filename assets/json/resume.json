@@ -6,7 +6,7 @@
     "email": "ykim9554@usc.edu",
     "phone": "(+82) 10-2057-3614",
     "url": "https://sites.google.com/view/lukeyjkim",
-    "summary": "PhD student in Electrical and Computer Engineering at USC Viterbi School of Engineering, focusing on 2.5D/3D IC design, power delivery networks, and machine learning for EDA",
+    "summary": "PhD student in Electrical and Computer Engineering at USC Viterbi School of Engineering, focusing on EDA for 2.5D/3D IC design and machine learning for EDA",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,8 +34,8 @@
       "url": "https://www.usc.edu/",
       "startDate": "2025-01-01",
       "endDate": "",
-      "summary": "Research on 2.5D/3D IC design and optimization, power delivery networks, and reinforcement learning for physical design under Professor Sungkyu Lim",
-      "highlights": ["2.5D/3D IC Design", "Power Delivery Networks", "ML for EDA"]
+      "summary": "Research on EDA for 2.5D/3D IC design and machine learning for EDA under Professor Sungkyu Lim",
+      "highlights": ["EDA for 2.5D/3D IC Design", "Machine Learning for EDA"]
     },
     {
       "name": "Samsung Memory Division",
