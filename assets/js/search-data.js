@@ -49,7 +49,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-graduated-from-yonsei-university-bachelor",
+            },},{id: "news-joined-samsung-memory-division-as-an-intern",
+          title: 'Joined Samsung Memory Division as an intern',
+          description: "",
+          section: "News",},{id: "news-graduated-from-yonsei-university-bachelor",
           title: 'Graduated from Yonsei University (Bachelor)',
           description: "",
           section: "News",},{id: "news-embarked-on-new-journey-at-sccad-under-prof-sungkyu-lim",
