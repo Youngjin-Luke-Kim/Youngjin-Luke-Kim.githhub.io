@@ -35,12 +35,9 @@ nav_order: 4
         <img src="/assets/img/yonsei_logo.png" class="img-fluid" alt="Yonsei">
       </div>
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Bachelor of Science in Electrical and Electronic Engineering</h5>
+        <h5 class="font-weight-bold">Bachelor of Engineering in Electrical and Electronic Engineering</h5>
         <h6 class="font-italic">Yonsei University, Seoul, South Korea</h6>
         <h6 class="font-italic text-muted">March 2019 - August 2025</h6>
-        <ul>
-          <li>GPA: 3.83/4.0, Major GPA: 3.92/4.0</li>
-        </ul>
       </div>
     </div>
   </div>
@@ -61,8 +58,7 @@ nav_order: 4
         <h6 class="font-italic">University of Southern California (USC)</h6>
         <h6 class="font-italic text-muted">August 2025 - Present</h6>
         <ul>
-          <li>Research on EDA for 2.5D/3D IC design and machine learning for EDA</li>
-          <li>Advisor: Professor Sungkyu Lim</li>
+          <li>Research on EDA for 2.5D/3D IC design and machine learning for EDA (Advisor: Prof. Sungkyu Lim)</li>
         </ul>
       </div>
     </div>
@@ -98,14 +94,10 @@ nav_order: 4
       </div>
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Undergraduate Research Assistant</h5>
-        <h6 class="font-italic">Yonsei University, Department of System Semiconductor Engineering</h6>
+        <h6 class="font-italic">Hardware-AI Convergence (HAI) Laboratory, Yonsei University</h6>
         <h6 class="font-italic text-muted">September 2024 - August 2025</h6>
         <ul>
-          <li>Advisor: Professor Jaeyong Chung</li>
-          <li>Lab: Hardware-AI Convergence (HAI) Laboratory</li>
-          <li>Designed RISC-V processor with custom ISA framework for undergraduate digital design curriculum</li>
-          <li>Developed standardized interface protocol for seamless integration of accelerators with modular architecture</li>
-          <li>Developing Chisel-based reconfigurable computing array for OpenGeMM acceleration</li>
+          <li>Designed RISC-V processor and Chisel-based reconfigurable computing array for OpenGeMM acceleration (Advisor: Prof. Jaeyong Chung)</li>
         </ul>
       </div>
     </div>
@@ -120,14 +112,10 @@ nav_order: 4
       </div>
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Undergraduate Research Assistant</h5>
-        <h6 class="font-italic">Yonsei University, Department of Electrical and Electronic Engineering</h6>
+        <h6 class="font-italic">High-Speed Circuits & System Laboratory, Yonsei University</h6>
         <h6 class="font-italic text-muted">August 2023 - August 2024</h6>
         <ul>
-          <li>Advisor: Professor Woo-Young Choi</li>
-          <li>Lab: High-Speed Circuits & System Laboratory</li>
-          <li>Developed FPGA-based digital control systems for Silicon Micro Ring Modulators</li>
-          <li>Designed matrix-based algorithm to solve thermal crosstalk, improving control accuracy from 70% to 90%</li>
-          <li>Designed PIC device models and AI training simulations using Python/MATLAB</li>
+          <li>Developed FPGA-based digital control systems and thermal crosstalk algorithms for Silicon Micro Ring Modulators (Advisor: Prof. Woo-Young Choi)</li>
         </ul>
       </div>
     </div>
@@ -139,5 +127,7 @@ nav_order: 4
 ## Awards
 
 - **IPESK Next Generation Engineer Award** (November 2024)
-- **Semiconductor Track Merit-Based & Academic Excellence Fellowship** - Samsung Display & LG Display (2023-2024)
-- **Merit-based Scholarship** - Yonsei University (2019-2024)
+- **Semiconductor Track Merit-Based & Academic Excellence Fellowship** (2023-2024)
+- **Merit-based Scholarship** (2019-2024)
+- **Academic Honors** (Spring 2019, Fall 2022)
+- **GBED Activity-based Scholarship** (Fall 2019)
