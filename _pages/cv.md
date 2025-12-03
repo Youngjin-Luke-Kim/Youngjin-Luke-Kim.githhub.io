@@ -1,11 +1,8 @@
 ---
-layout: cv
+layout: none
 permalink: /cv/
-title: cv
 nav: true
 nav_order: 5
-cv_pdf: # you can also use external links here
-description:
-toc:
-  sidebar: left
+title: CV
+redirect: /assets/pdf/CV_Youngjin_Kim.pdf
 ---

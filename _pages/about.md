@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Student at <a href='https://www.usc.edu/'>USC Viterbi School of Engineering</a>
 

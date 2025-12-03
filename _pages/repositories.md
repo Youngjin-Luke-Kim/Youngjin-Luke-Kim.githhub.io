@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Experience
 description:
 nav: true
 nav_order: 4
