@@ -13,7 +13,7 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-2">
-        <img src="/assets/img/usc_logo.png" class="img-fluid" alt="USC">
+        <img src="/assets/img/usc_logo.png" class="img-fluid" alt="USC" style="max-width: 80px;">
       </div>
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Ph.D. in Electrical and Computer Engineering</h5>
@@ -51,7 +51,7 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-2">
-        <img src="/assets/img/usc_logo.png" class="img-fluid" alt="USC">
+        <img src="/assets/img/usc_logo.png" class="img-fluid" alt="USC" style="max-width: 80px;">
       </div>
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Graduate Research Assistant</h5>
