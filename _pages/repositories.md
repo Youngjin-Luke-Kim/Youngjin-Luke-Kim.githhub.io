@@ -13,7 +13,7 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-2">
-        <img src="/assets/img/usc_logo.png" class="img-fluid" alt="USC" style="max-width: 80px;">
+        <img src="/assets/img/usc_logo.png" class="img-fluid" alt="USC">
       </div>
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Ph.D. in Electrical and Computer Engineering</h5>
@@ -51,7 +51,7 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-2">
-        <img src="/assets/img/usc_logo.png" class="img-fluid" alt="USC" style="max-width: 80px;">
+        <img src="/assets/img/usc_logo.png" class="img-fluid" alt="USC">
       </div>
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Graduate Research Assistant</h5>
@@ -68,10 +68,10 @@ nav_order: 4
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
-      <div class="col-sm-2">
+      <div class="col-sm-3 d-flex align-items-center">
         <img src="/assets/img/samsung_logo.png" class="img-fluid" alt="Samsung">
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-9">
         <h5 class="font-weight-bold">Intern, Controller Development</h5>
         <h6 class="font-italic">Samsung Memory Division, Hwaseong, South Korea</h6>
         <h6 class="font-italic text-muted">May 2024 - August 2024</h6>
