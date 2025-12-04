@@ -68,10 +68,10 @@ nav_order: 4
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
-      <div class="col-sm-3 d-flex align-items-center">
+      <div class="col-sm-2">
         <img src="/assets/img/samsung_logo.png" class="img-fluid" alt="Samsung">
       </div>
-      <div class="col-sm-9">
+      <div class="col-sm-10">
         <h5 class="font-weight-bold">Intern, Controller Development</h5>
         <h6 class="font-italic">Samsung Memory Division, Hwaseong, South Korea</h6>
         <h6 class="font-italic text-muted">May 2024 - August 2024</h6>
